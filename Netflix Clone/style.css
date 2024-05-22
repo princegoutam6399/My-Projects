@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container img {
+    display: flex;
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: -40px;
+    width: 150px;
+    height: 150px;
+}
+.row{
+    padding:120px;
+    /* padding-left: 20px;
+    padding-top: 150px;
+    padding-bottom: 200px; */
+}
+
+.row .services h1{
+    font-size: 50px;
+}
+.services{
+    float: left;
+}
+.image-demo img{
+    width: 450px;
+    height: auto;
+}
+.image-demo{
+    float: left;
+}
+.video video{
+    width: 450px;
+    margin-left: 200px;
+}
+
